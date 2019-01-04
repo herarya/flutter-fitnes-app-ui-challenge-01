@@ -1,7 +1,5 @@
 # flutter-fitnes-app-ui-challenge-01
 
-# flightapp
-
 Fitness UI from Dribble
 
 - https://dribbble.com/shots/5763671-Fitness-Challenges-Dare-App-Day-363-365-Project365
